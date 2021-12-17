@@ -1,0 +1,2 @@
+com/ajc/unit_testing/BuildConfig.java
+ com.ajc.unit_testing.BuildConfig
